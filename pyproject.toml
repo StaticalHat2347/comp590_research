@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "compression-noise"
+version = "0.1.0"
+description = "Experiment pipeline for measuring compression effects on vision algorithms."
+requires-python = ">=3.10"
+dependencies = [
+  "opencv-python>=4.8",
+  "numpy>=1.24",
+  "matplotlib>=3.7",
+]
+
+[project.scripts]
+compression-noise = "compression_noise.pipeline:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
