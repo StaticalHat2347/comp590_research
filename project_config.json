@@ -1,0 +1,27 @@
+{
+  "raw_dir": "data/raw",
+  "compressed_dir": "data/compressed",
+  "outputs_dir": "outputs",
+  "sample_every": 10,
+  "algorithms": ["motion", "edges"],
+  "compression_levels": [
+    {"name": "q18_scale100", "crf": 18, "scale": 1.0},
+    {"name": "q23_scale075", "crf": 23, "scale": 0.75},
+    {"name": "q28_scale050", "crf": 28, "scale": 0.5},
+    {"name": "q33_scale033", "crf": 33, "scale": 0.33},
+    {"name": "q38_scale020", "crf": 38, "scale": 0.2},
+    {"name": "q42_scale010", "crf": 42, "scale": 0.1}
+  ],
+  "videos": [
+    {
+      "id": "chill_clip",
+      "category": "single_object",
+      "path": "data/raw/single_object/chill_clip.mp4"
+    },
+    {
+      "id": "action_clip",
+      "category": "multi_object",
+      "path": "data/raw/multi_object/action_clip.mp4"
+    }
+  ]
+}

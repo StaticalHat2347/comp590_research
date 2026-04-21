@@ -1,0 +1,957 @@
+{
+  "video_path": "data/raw/single_object/chill_clip.mp4",
+  "algorithm": "edges",
+  "sample_every": 10,
+  "fps": 25.0,
+  "width": 1920,
+  "height": 1080,
+  "frame_count": 613,
+  "frames": [
+    {
+      "frame_index": 0,
+      "time_seconds": 0.0,
+      "detections": [
+        {
+          "x": 377,
+          "y": 732,
+          "w": 1543,
+          "h": 348,
+          "score": 8839.0
+        }
+      ]
+    },
+    {
+      "frame_index": 10,
+      "time_seconds": 0.4,
+      "detections": []
+    },
+    {
+      "frame_index": 20,
+      "time_seconds": 0.8,
+      "detections": []
+    },
+    {
+      "frame_index": 30,
+      "time_seconds": 1.2,
+      "detections": []
+    },
+    {
+      "frame_index": 40,
+      "time_seconds": 1.6,
+      "detections": [
+        {
+          "x": 1073,
+          "y": 823,
+          "w": 847,
+          "h": 159,
+          "score": 3155.0
+        }
+      ]
+    },
+    {
+      "frame_index": 50,
+      "time_seconds": 2.0,
+      "detections": [
+        {
+          "x": 1077,
+          "y": 824,
+          "w": 843,
+          "h": 160,
+          "score": 3326.0
+        },
+        {
+          "x": 405,
+          "y": 285,
+          "w": 575,
+          "h": 513,
+          "score": 3262.5
+        }
+      ]
+    },
+    {
+      "frame_index": 60,
+      "time_seconds": 2.4,
+      "detections": [
+        {
+          "x": 1084,
+          "y": 814,
+          "w": 836,
+          "h": 171,
+          "score": 3273.0
+        }
+      ]
+    },
+    {
+      "frame_index": 70,
+      "time_seconds": 2.8,
+      "detections": []
+    },
+    {
+      "frame_index": 80,
+      "time_seconds": 3.2,
+      "detections": [
+        {
+          "x": 974,
+          "y": 785,
+          "w": 946,
+          "h": 187,
+          "score": 3744.5
+        },
+        {
+          "x": 0,
+          "y": 364,
+          "w": 992,
+          "h": 433,
+          "score": 3476.5
+        }
+      ]
+    },
+    {
+      "frame_index": 90,
+      "time_seconds": 3.6,
+      "detections": [
+        {
+          "x": 850,
+          "y": 783,
+          "w": 1070,
+          "h": 182,
+          "score": 4103.5
+        }
+      ]
+    },
+    {
+      "frame_index": 100,
+      "time_seconds": 4.0,
+      "detections": [
+        {
+          "x": 883,
+          "y": 782,
+          "w": 1037,
+          "h": 185,
+          "score": 7097.5
+        }
+      ]
+    },
+    {
+      "frame_index": 110,
+      "time_seconds": 4.4,
+      "detections": [
+        {
+          "x": 502,
+          "y": 779,
+          "w": 1418,
+          "h": 301,
+          "score": 4932.0
+        },
+        {
+          "x": 0,
+          "y": 360,
+          "w": 1008,
+          "h": 445,
+          "score": 3837.0
+        }
+      ]
+    },
+    {
+      "frame_index": 120,
+      "time_seconds": 4.8,
+      "detections": [
+        {
+          "x": 504,
+          "y": 392,
+          "w": 1416,
+          "h": 688,
+          "score": 11039.5
+        }
+      ]
+    },
+    {
+      "frame_index": 130,
+      "time_seconds": 5.2,
+      "detections": [
+        {
+          "x": 515,
+          "y": 767,
+          "w": 1405,
+          "h": 313,
+          "score": 10044.0
+        }
+      ]
+    },
+    {
+      "frame_index": 140,
+      "time_seconds": 5.6,
+      "detections": [
+        {
+          "x": 511,
+          "y": 767,
+          "w": 1409,
+          "h": 313,
+          "score": 10892.5
+        },
+        {
+          "x": 0,
+          "y": 378,
+          "w": 984,
+          "h": 455,
+          "score": 4363.5
+        }
+      ]
+    },
+    {
+      "frame_index": 150,
+      "time_seconds": 6.0,
+      "detections": [
+        {
+          "x": 0,
+          "y": 761,
+          "w": 1920,
+          "h": 319,
+          "score": 17758.0
+        }
+      ]
+    },
+    {
+      "frame_index": 160,
+      "time_seconds": 6.4,
+      "detections": [
+        {
+          "x": 494,
+          "y": 755,
+          "w": 1426,
+          "h": 325,
+          "score": 8365.5
+        },
+        {
+          "x": 1018,
+          "y": 769,
+          "w": 236,
+          "h": 47,
+          "score": 4263.5
+        },
+        {
+          "x": 0,
+          "y": 830,
+          "w": 897,
+          "h": 100,
+          "score": 3664.5
+        }
+      ]
+    },
+    {
+      "frame_index": 170,
+      "time_seconds": 6.8,
+      "detections": [
+        {
+          "x": 863,
+          "y": 717,
+          "w": 1057,
+          "h": 240,
+          "score": 6537.0
+        },
+        {
+          "x": 1012,
+          "y": 766,
+          "w": 280,
+          "h": 50,
+          "score": 4817.5
+        },
+        {
+          "x": 491,
+          "y": 810,
+          "w": 1067,
+          "h": 270,
+          "score": 3932.0
+        },
+        {
+          "x": 1214,
+          "y": 941,
+          "w": 166,
+          "h": 103,
+          "score": 3182.0
+        }
+      ]
+    },
+    {
+      "frame_index": 180,
+      "time_seconds": 7.2,
+      "detections": [
+        {
+          "x": 791,
+          "y": 628,
+          "w": 1129,
+          "h": 406,
+          "score": 20274.5
+        },
+        {
+          "x": 1009,
+          "y": 768,
+          "w": 252,
+          "h": 48,
+          "score": 5755.5
+        },
+        {
+          "x": 0,
+          "y": 713,
+          "w": 602,
+          "h": 52,
+          "score": 3190.0
+        }
+      ]
+    },
+    {
+      "frame_index": 190,
+      "time_seconds": 7.6,
+      "detections": [
+        {
+          "x": 1004,
+          "y": 763,
+          "w": 274,
+          "h": 52,
+          "score": 7202.0
+        },
+        {
+          "x": 640,
+          "y": 627,
+          "w": 974,
+          "h": 222,
+          "score": 5666.5
+        },
+        {
+          "x": 0,
+          "y": 680,
+          "w": 617,
+          "h": 78,
+          "score": 3362.0
+        },
+        {
+          "x": 0,
+          "y": 825,
+          "w": 906,
+          "h": 106,
+          "score": 3214.0
+        }
+      ]
+    },
+    {
+      "frame_index": 200,
+      "time_seconds": 8.0,
+      "detections": [
+        {
+          "x": 1000,
+          "y": 758,
+          "w": 295,
+          "h": 56,
+          "score": 8903.0
+        },
+        {
+          "x": 32,
+          "y": 478,
+          "w": 975,
+          "h": 304,
+          "score": 5076.5
+        },
+        {
+          "x": 466,
+          "y": 800,
+          "w": 1454,
+          "h": 280,
+          "score": 3676.0
+        },
+        {
+          "x": 873,
+          "y": 732,
+          "w": 118,
+          "h": 100,
+          "score": 3631.0
+        },
+        {
+          "x": 0,
+          "y": 827,
+          "w": 866,
+          "h": 116,
+          "score": 3145.5
+        }
+      ]
+    },
+    {
+      "frame_index": 210,
+      "time_seconds": 8.4,
+      "detections": [
+        {
+          "x": 991,
+          "y": 759,
+          "w": 323,
+          "h": 62,
+          "score": 10945.5
+        },
+        {
+          "x": 0,
+          "y": 734,
+          "w": 1456,
+          "h": 198,
+          "score": 4261.5
+        },
+        {
+          "x": 1142,
+          "y": 835,
+          "w": 778,
+          "h": 201,
+          "score": 3867.5
+        },
+        {
+          "x": 0,
+          "y": 719,
+          "w": 505,
+          "h": 18,
+          "score": 3178.5
+        }
+      ]
+    },
+    {
+      "frame_index": 220,
+      "time_seconds": 8.8,
+      "detections": [
+        {
+          "x": 0,
+          "y": 508,
+          "w": 1498,
+          "h": 419,
+          "score": 14444.0
+        },
+        {
+          "x": 982,
+          "y": 756,
+          "w": 356,
+          "h": 67,
+          "score": 13773.5
+        },
+        {
+          "x": 0,
+          "y": 640,
+          "w": 662,
+          "h": 89,
+          "score": 4452.0
+        }
+      ]
+    },
+    {
+      "frame_index": 230,
+      "time_seconds": 9.2,
+      "detections": [
+        {
+          "x": 0,
+          "y": 477,
+          "w": 1920,
+          "h": 457,
+          "score": 38582.0
+        },
+        {
+          "x": 971,
+          "y": 752,
+          "w": 397,
+          "h": 75,
+          "score": 17790.5
+        },
+        {
+          "x": 1237,
+          "y": 834,
+          "w": 524,
+          "h": 94,
+          "score": 3141.0
+        }
+      ]
+    },
+    {
+      "frame_index": 240,
+      "time_seconds": 9.6,
+      "detections": [
+        {
+          "x": 816,
+          "y": 399,
+          "w": 1104,
+          "h": 300,
+          "score": 23751.0
+        },
+        {
+          "x": 957,
+          "y": 745,
+          "w": 450,
+          "h": 84,
+          "score": 23302.0
+        },
+        {
+          "x": 296,
+          "y": 702,
+          "w": 517,
+          "h": 100,
+          "score": 11101.5
+        },
+        {
+          "x": 0,
+          "y": 703,
+          "w": 1628,
+          "h": 228,
+          "score": 8980.0
+        },
+        {
+          "x": 0,
+          "y": 665,
+          "w": 815,
+          "h": 36,
+          "score": 5925.0
+        },
+        {
+          "x": 1262,
+          "y": 836,
+          "w": 658,
+          "h": 96,
+          "score": 3998.5
+        }
+      ]
+    },
+    {
+      "frame_index": 250,
+      "time_seconds": 10.0,
+      "detections": [
+        {
+          "x": 958,
+          "y": 734,
+          "w": 494,
+          "h": 97,
+          "score": 31616.0
+        },
+        {
+          "x": 704,
+          "y": 439,
+          "w": 1216,
+          "h": 221,
+          "score": 15678.0
+        }
+      ]
+    },
+    {
+      "frame_index": 260,
+      "time_seconds": 10.4,
+      "detections": [
+        {
+          "x": 942,
+          "y": 720,
+          "w": 576,
+          "h": 112,
+          "score": 44541.0
+        },
+        {
+          "x": 384,
+          "y": 369,
+          "w": 1536,
+          "h": 255,
+          "score": 22047.5
+        },
+        {
+          "x": 373,
+          "y": 652,
+          "w": 1496,
+          "h": 190,
+          "score": 5786.5
+        }
+      ]
+    },
+    {
+      "frame_index": 270,
+      "time_seconds": 10.8,
+      "detections": [
+        {
+          "x": 918,
+          "y": 697,
+          "w": 691,
+          "h": 135,
+          "score": 65977.0
+        },
+        {
+          "x": 0,
+          "y": 603,
+          "w": 818,
+          "h": 197,
+          "score": 45393.5
+        },
+        {
+          "x": 0,
+          "y": 265,
+          "w": 1920,
+          "h": 311,
+          "score": 28674.5
+        }
+      ]
+    },
+    {
+      "frame_index": 280,
+      "time_seconds": 11.2,
+      "detections": [
+        {
+          "x": 884,
+          "y": 662,
+          "w": 866,
+          "h": 169,
+          "score": 107201.0
+        },
+        {
+          "x": 56,
+          "y": 569,
+          "w": 655,
+          "h": 218,
+          "score": 64099.0
+        },
+        {
+          "x": 718,
+          "y": 633,
+          "w": 52,
+          "h": 152,
+          "score": 5835.0
+        },
+        {
+          "x": 0,
+          "y": 838,
+          "w": 822,
+          "h": 96,
+          "score": 3866.0
+        }
+      ]
+    },
+    {
+      "frame_index": 290,
+      "time_seconds": 11.6,
+      "detections": [
+        {
+          "x": 828,
+          "y": 608,
+          "w": 1092,
+          "h": 196,
+          "score": 24400.0
+        }
+      ]
+    },
+    {
+      "frame_index": 300,
+      "time_seconds": 12.0,
+      "detections": [
+        {
+          "x": 705,
+          "y": 501,
+          "w": 1215,
+          "h": 308,
+          "score": 39130.0
+        },
+        {
+          "x": 609,
+          "y": 502,
+          "w": 40,
+          "h": 278,
+          "score": 7300.5
+        }
+      ]
+    },
+    {
+      "frame_index": 310,
+      "time_seconds": 12.4,
+      "detections": [
+        {
+          "x": 275,
+          "y": 368,
+          "w": 1645,
+          "h": 440,
+          "score": 4752.0
+        }
+      ]
+    },
+    {
+      "frame_index": 320,
+      "time_seconds": 12.8,
+      "detections": [
+        {
+          "x": 384,
+          "y": 808,
+          "w": 691,
+          "h": 267,
+          "score": 8014.5
+        },
+        {
+          "x": 542,
+          "y": 462,
+          "w": 1378,
+          "h": 346,
+          "score": 4196.5
+        }
+      ]
+    },
+    {
+      "frame_index": 330,
+      "time_seconds": 13.2,
+      "detections": [
+        {
+          "x": 0,
+          "y": 367,
+          "w": 1920,
+          "h": 428,
+          "score": 4653.5
+        }
+      ]
+    },
+    {
+      "frame_index": 340,
+      "time_seconds": 13.6,
+      "detections": [
+        {
+          "x": 449,
+          "y": 341,
+          "w": 1471,
+          "h": 459,
+          "score": 4505.0
+        }
+      ]
+    },
+    {
+      "frame_index": 350,
+      "time_seconds": 14.0,
+      "detections": [
+        {
+          "x": 638,
+          "y": 489,
+          "w": 1282,
+          "h": 313,
+          "score": 3170.0
+        }
+      ]
+    },
+    {
+      "frame_index": 360,
+      "time_seconds": 14.4,
+      "detections": [
+        {
+          "x": 0,
+          "y": 407,
+          "w": 1920,
+          "h": 409,
+          "score": 4489.5
+        }
+      ]
+    },
+    {
+      "frame_index": 370,
+      "time_seconds": 14.8,
+      "detections": [
+        {
+          "x": 299,
+          "y": 326,
+          "w": 1621,
+          "h": 491,
+          "score": 9916.5
+        }
+      ]
+    },
+    {
+      "frame_index": 380,
+      "time_seconds": 15.2,
+      "detections": [
+        {
+          "x": 696,
+          "y": 502,
+          "w": 1224,
+          "h": 321,
+          "score": 4370.0
+        }
+      ]
+    },
+    {
+      "frame_index": 390,
+      "time_seconds": 15.6,
+      "detections": [
+        {
+          "x": 243,
+          "y": 434,
+          "w": 1677,
+          "h": 386,
+          "score": 4826.0
+        },
+        {
+          "x": 1143,
+          "y": 831,
+          "w": 777,
+          "h": 196,
+          "score": 3135.5
+        }
+      ]
+    },
+    {
+      "frame_index": 400,
+      "time_seconds": 16.0,
+      "detections": [
+        {
+          "x": 0,
+          "y": 325,
+          "w": 1920,
+          "h": 499,
+          "score": 5553.0
+        },
+        {
+          "x": 1141,
+          "y": 834,
+          "w": 779,
+          "h": 194,
+          "score": 3573.5
+        }
+      ]
+    },
+    {
+      "frame_index": 410,
+      "time_seconds": 16.4,
+      "detections": [
+        {
+          "x": 734,
+          "y": 507,
+          "w": 1186,
+          "h": 319,
+          "score": 5084.0
+        },
+        {
+          "x": 1144,
+          "y": 837,
+          "w": 618,
+          "h": 107,
+          "score": 3617.0
+        }
+      ]
+    },
+    {
+      "frame_index": 420,
+      "time_seconds": 16.8,
+      "detections": [
+        {
+          "x": 410,
+          "y": 454,
+          "w": 1510,
+          "h": 368,
+          "score": 3949.0
+        }
+      ]
+    },
+    {
+      "frame_index": 430,
+      "time_seconds": 17.2,
+      "detections": [
+        {
+          "x": 0,
+          "y": 348,
+          "w": 1920,
+          "h": 476,
+          "score": 5068.5
+        }
+      ]
+    },
+    {
+      "frame_index": 440,
+      "time_seconds": 17.6,
+      "detections": [
+        {
+          "x": 734,
+          "y": 495,
+          "w": 1186,
+          "h": 325,
+          "score": 4309.0
+        },
+        {
+          "x": 1137,
+          "y": 834,
+          "w": 783,
+          "h": 199,
+          "score": 3557.5
+        }
+      ]
+    },
+    {
+      "frame_index": 450,
+      "time_seconds": 18.0,
+      "detections": []
+    },
+    {
+      "frame_index": 460,
+      "time_seconds": 18.4,
+      "detections": []
+    },
+    {
+      "frame_index": 470,
+      "time_seconds": 18.8,
+      "detections": []
+    },
+    {
+      "frame_index": 480,
+      "time_seconds": 19.2,
+      "detections": []
+    },
+    {
+      "frame_index": 490,
+      "time_seconds": 19.6,
+      "detections": []
+    },
+    {
+      "frame_index": 500,
+      "time_seconds": 20.0,
+      "detections": []
+    },
+    {
+      "frame_index": 510,
+      "time_seconds": 20.4,
+      "detections": []
+    },
+    {
+      "frame_index": 520,
+      "time_seconds": 20.8,
+      "detections": []
+    },
+    {
+      "frame_index": 530,
+      "time_seconds": 21.2,
+      "detections": []
+    },
+    {
+      "frame_index": 540,
+      "time_seconds": 21.6,
+      "detections": []
+    },
+    {
+      "frame_index": 550,
+      "time_seconds": 22.0,
+      "detections": []
+    },
+    {
+      "frame_index": 560,
+      "time_seconds": 22.4,
+      "detections": []
+    },
+    {
+      "frame_index": 570,
+      "time_seconds": 22.8,
+      "detections": []
+    },
+    {
+      "frame_index": 580,
+      "time_seconds": 23.2,
+      "detections": []
+    },
+    {
+      "frame_index": 590,
+      "time_seconds": 23.6,
+      "detections": []
+    },
+    {
+      "frame_index": 600,
+      "time_seconds": 24.0,
+      "detections": []
+    },
+    {
+      "frame_index": 610,
+      "time_seconds": 24.4,
+      "detections": []
+    }
+  ]
+}
